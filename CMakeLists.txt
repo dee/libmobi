@@ -26,7 +26,7 @@ option(USE_ENCRYPTION "Enable encryption" ON)
 option(TOOLS_STATIC "Enable static tools compilation" OFF)
 
 # Option to use libxml2
-option(USE_LIBXML2 "Use libxml2 instead of internal xmlwriter" ON)
+option(USE_LIBXML2 "Use libxml2 instead of internal xmlwriter" OFF)
 
 # Option to use zlib
 option(USE_ZLIB "Use zlib" ON)
